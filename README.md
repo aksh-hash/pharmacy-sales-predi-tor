@@ -8,3 +8,7 @@ Adaboost gave better score and variance sometimes versus Random Trees. But the X
 
 ![index](https://user-images.githubusercontent.com/74498340/179389502-4b4b2edf-2836-46de-be8d-3d8cce2afe47.png)
 sales graph
+
+
+![index-1](https://user-images.githubusercontent.com/74498340/179389535-d09af36d-fee2-4a67-b8d6-958f9a99c2dc.png)
+sales dependent on various factors
